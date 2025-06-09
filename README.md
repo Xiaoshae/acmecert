@@ -37,10 +37,9 @@
 
 1.  **克隆仓库**:
     ```bash
-    git clone https://github.com/your-username/AcmeCert.git
-    cd AcmeCert
+    git clone https://github.com/xiaoshae/acmecert.git
+    cd acmecert
     ```
-    (请将 `https://github.com/your-username/AcmeCert.git` 替换为您实际的仓库地址)
 
 2.  **安装依赖**:
     

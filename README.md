@@ -229,4 +229,4 @@ python main.py
 
 ## 📄 许可证
 
-本项目基于 MIT 许可证。详见 `LICENSE` 文件（如果存在）。
+本项目基于 MIT 许可证。详见 `LICENSE` 文件。

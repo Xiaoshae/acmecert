@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Logs
+*.log
+main_run.log
+
+# Certificates and Keys
+/certs/
+/keys/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / Build Files
+dist/
+build/
+*.egg-info/
